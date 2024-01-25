@@ -6,11 +6,11 @@ This command-line application is designed to assist business owners in managing 
 ## Installation
 To install the required dependencies, use the following command:
 
-npm install inquirer@8.2.4
+'''npm install inquirer@8.2.4'''
 
 Start the application using the following command:
 
-node index.js
+'''node index.js'''
 
 THEN Follow the on-screen prompts to perform various actions, such as viewing departments, roles, and employees, adding new entries, and updating employee roles.
 
